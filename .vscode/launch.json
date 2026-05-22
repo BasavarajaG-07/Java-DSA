@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Practice1",
+            "request": "launch",
+            "mainClass": "Practice1",
+            "projectName": "basu java project_2454aae3"
+        },
+        {
+            "type": "java",
+            "name": "Basu16",
+            "request": "launch",
+            "mainClass": "Basu16",
+            "projectName": "basu java project_2454aae3"
+        },
+        {
+            "type": "java",
+            "name": "skillrackmay",
+            "request": "launch",
+            "mainClass": "skillrackmay",
+            "projectName": "basu java project_2454aae3"
+        },
+        {
+            "type": "java",
+            "name": "Ensamachaara",
+            "request": "launch",
+            "mainClass": "Ensamachaara",
+            "projectName": "basu java project_2454aae3"
+        },
+        {
+            "type": "java",
+            "name": "Hello1",
+            "request": "launch",
+            "mainClass": "Hello1",
+            "projectName": "basu java project_2454aae3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
