@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "loops2",
+            "request": "launch",
+            "mainClass": "Loops.loops2",
+            "projectName": "basu java project_2454aae3"
+        },
+        {
+            "type": "java",
+            "name": "Lopps1",
+            "request": "launch",
+            "mainClass": "Loops.Lopps1",
+            "projectName": "basu java project_2454aae3"
+        },
+        {
+            "type": "java",
+            "name": "AscitoString",
+            "request": "launch",
+            "mainClass": "AscitoString",
+            "projectName": "basu java project_2454aae3"
+        },
+        {
+            "type": "java",
             "name": "Practice1",
             "request": "launch",
             "mainClass": "Practice1",

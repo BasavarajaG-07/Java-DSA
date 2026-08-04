@@ -1,3 +1,4 @@
+package Methods;
 public class AddNumbers {
     public static void add(int a,int b)
     {

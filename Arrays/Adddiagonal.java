@@ -1,3 +1,4 @@
+package Arrays;
 public class Adddiagonal {
     
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package Arrays;
 import java.util.Scanner;
 public class ArrayPractice1 {
     public static int LinerSearch(int arr[],int key){
