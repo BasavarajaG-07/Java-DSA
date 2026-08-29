@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TopScorerName",
+            "request": "launch",
+            "mainClass": "String.TopScorerName",
+            "projectName": "basu java project_2454aae3"
+        },
+        {
+            "type": "java",
+            "name": "ceilingnuber",
+            "request": "launch",
+            "mainClass": "binarysearch.ceilingnuber",
+            "projectName": "basu java project_2454aae3"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "binarysearch.BinarySearch",
+            "projectName": "basu java project_2454aae3"
+        },
+        {
+            "type": "java",
+            "name": "basu123",
+            "request": "launch",
+            "mainClass": "Arrays.basu123",
+            "projectName": "basu java project_2454aae3"
+        },
+        {
+            "type": "java",
+            "name": "Addnum",
+            "request": "launch",
+            "mainClass": "Addnum",
+            "projectName": "basu java project_2454aae3"
+        },
+        {
+            "type": "java",
+            "name": "kunalpractice",
+            "request": "launch",
+            "mainClass": "Arrays.kunalpractice",
+            "projectName": "basu java project_2454aae3"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearchKu",
+            "request": "launch",
+            "mainClass": "Arrays.LinearSearchKu",
+            "projectName": "basu java project_2454aae3"
+        },
+        {
+            "type": "java",
+            "name": "FunctionsAlgorithm",
+            "request": "launch",
+            "mainClass": "Methods.FunctionsAlgorithm",
+            "projectName": "basu java project_2454aae3"
+        },
+        {
+            "type": "java",
             "name": "loops2",
             "request": "launch",
             "mainClass": "Loops.loops2",
